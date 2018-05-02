@@ -51,7 +51,7 @@ public class ZipCodeFragment extends Fragment {
             Log.e("ZipCode", zipcode);
 
             InputMethodManager imm = (InputMethodManager)getActivity().getSystemService(Context.INPUT_METHOD_SERVICE);
-            imm.hideSoftInputFromWindow(et.getWindowToken(), 0);
+            imm.hideSoftInputFromWindow(et.getWindowToken(), 0);   // hide the blink
         }
     };
 

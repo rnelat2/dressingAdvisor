@@ -10,10 +10,7 @@ import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-
-/**
- * A simple {@link Fragment} subclass.
- */
+//not working yet
 public class AboutFragment extends Fragment {
 
 
