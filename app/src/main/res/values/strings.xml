@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">dressingadvisor</string>
+    <string name="app_name">MobileWardrobe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mobile Wardrobe v1.0</string>
+    <string name="nav_header_subtitle">rachita.nelaturi@gmail.com.com \n rnelat2@illinois.edu </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_pick">Pick Random</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">MobileWardrobe v1.0\nRachita\nAnotherName</string>
 </resources>
