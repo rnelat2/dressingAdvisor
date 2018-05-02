@@ -24,6 +24,10 @@ public class AdviserFragment extends Fragment {
             R.drawable.t3,
             R.drawable.t4,
             R.drawable.t5,
+            R.drawable.t6,
+            R.drawable.t7,
+            R.drawable.t8,
+            R.drawable.t9,
     };
 
     int BottomsIDs[] = {
@@ -32,6 +36,10 @@ public class AdviserFragment extends Fragment {
             R.drawable.b3,
             R.drawable.b4,
             R.drawable.b5,
+            R.drawable.b6,
+            R.drawable.b7,
+            R.drawable.b8,
+            R.drawable.b9,
     };
 
     int ShoesIDs[] = {
@@ -40,6 +48,11 @@ public class AdviserFragment extends Fragment {
             R.drawable.s3,
             R.drawable.s4,
             R.drawable.s5,
+            R.drawable.s6,
+            R.drawable.s7,
+            R.drawable.s8,
+            R.drawable.s9,
+
     };
     static final Random random = new Random();
 
